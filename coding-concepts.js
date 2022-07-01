@@ -21,8 +21,8 @@ const greeter = (name) => {
 }
 // console.log(greeter("LEARN Student"))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: An Error
+// b) Verify and explain: undefined: because only 'greeter' was declared and in the string interpolation LEARN Student should be there
 
 
 // --------------------3) What will this log?
